@@ -31,3 +31,11 @@
     align-items: center;
 }
 
+.contact {
+    border: 2px;
+    border-style: solid;
+}
+
+h2 {
+    text-decoration: underline;
+}
